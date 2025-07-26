@@ -1,6 +1,8 @@
 # nlme
 Nonlinear mixed-effects model fit by maximum likelihood Use nlme With (In) R Software
 
+https://www.youtube.com/watch?v=wHkVrSkpgSU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
